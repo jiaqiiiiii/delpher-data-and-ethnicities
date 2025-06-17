@@ -1,0 +1,25 @@
+SEMANTIC NEIGHBOR ANALYSIS RESULTS
+============================================================
+
+WORD: MOOR
+----------------------------------------
+
+Changepoint around 1760s:
+  Index: 5
+  Before decades: [1750]
+  After decades: [1760, 1770]
+
+  Neighbors by decade:
+    1750s: commandeur, john, gearriveerd, aldaar, dagen, jofeph, henriques, diverfe
+    1760s: kamer, eenen, party, gewaterde, aldaar, goederen, zien, schipper
+    1770s: stoffen, word, stad, schip, dito, verkoopen, gewaterde, party
+
+  SEMANTIC SHIFT ANALYSIS:
+    Moving AWAY from: diverfe, jofeph, generaal, henriques, gearriveerd, john, martinique, troupen, commandeur, chef
+    Moving TOWARDS: gouverneur, groote, gewaterde, leggende, eenen, party, kamer, schipper, zien, ridder
+    Stable context: aldaar, schip
+
+----------------------------------------
+
+============================================================
+
